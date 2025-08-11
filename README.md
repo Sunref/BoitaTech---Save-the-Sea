@@ -1,8 +1,10 @@
-# BOITATECH - Project X
+# BOITATECH - Save the Sea
 
-**Status:** Idea under discussion
+This is a basic project using **PORTUGOL** to encourage children to become interested in programming.  
+The project takes place thanks to the **Extension Project** class.
 
-This repository is dedicated to the development of Extension Project 5. 
-The project topic is still being defined and discussed by the team, with the aim of creating a solution that is both practical and relevant to the subject matter.
+In this program, the user can choose which marine animal they want to save — turtles, dolphins, or fish — and then select from several environmental actions that help preserve the life of these creatures. Some actions are more effective than others. The program simulates a period of time and, at the end, shows whether the set of measures adopted was enough to protect the chosen animal.  
+The project makes use of variables, if statements, and loops.
 
-Further updates, documentation, and implementation details will be added as the project concept takes shape.
+## Collaborators
+[André L.](https://github.com/andrelfmp3), [Fernanda M.](https://github.com/Sunref), [Larissa G.](https://github.com/larisDias), [Mariana C.](https://github.com/MariChahud) and [Victória C.](https://github.com/Carolvic16).
